@@ -45,7 +45,8 @@ skips it and jumps directly into running `asynchronousRequest()`.
 
 ## See also
 
-Queueing: https://www.digitalocean.com/community/tutorials/understanding-the-event-loop-callbacks-promises-and-async-await-in-javascript
-Recursion: https://stackoverflow.com/questions/41175353/javascript-callback-within-a-while-loop-does-not-work
+*   Queueing: https://www.digitalocean.com/community/tutorials/understanding-the-event-loop-callbacks-promises-and-async-await-in-javascript
+
+*   Recursion: https://stackoverflow.com/questions/41175353/javascript-callback-within-a-while-loop-does-not-work
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
